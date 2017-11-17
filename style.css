@@ -1,0 +1,20 @@
+h1, h2, h3{
+text-align: center;
+color: #acace0;
+}
+ul{
+	padding-left: 35%;
+	color: #d4eff7;
+}
+p{
+text-align: center;
+color: #d4eff7;
+}
+img{
+   display: block;
+    margin-left: auto;
+    margin-right: auto   
+}
+body{
+	background-color: #272735;
+}
